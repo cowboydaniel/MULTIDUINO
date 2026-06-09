@@ -1,0 +1,5 @@
+# KiCad temporary/lock/autosave files
+*-backups/
+*.lck
+~*.lck
+#auto_saved_files#
